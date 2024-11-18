@@ -1,0 +1,15 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "SD-Utils",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"seconds",
+		"total",
+		"blinking"
+	],
+	"name" : "SDTimer",
+	"type" : "normal"
+}
