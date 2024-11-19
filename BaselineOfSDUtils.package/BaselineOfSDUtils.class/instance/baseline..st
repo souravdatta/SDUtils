@@ -3,6 +3,6 @@ baseline: spec
 	<baseline>
 	
 	spec for: #common do: [ 
+		spec project: 'SDUtils'.
 		spec package: 'SDUtils'.
-		spec group: 'default' with: #('SDUtils') 
 	]
