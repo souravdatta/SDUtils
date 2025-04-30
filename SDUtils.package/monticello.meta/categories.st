@@ -1,1 +1,1 @@
-SystemOrganization addCategory: #SDUtils!
+self packageOrganizer ensurePackage: #SDUtils withTags: #()!

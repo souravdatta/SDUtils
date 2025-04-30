@@ -1,0 +1,20 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "SDUtils",
+	"classinstvars" : [
+		"nextId"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"next",
+		"lineMorph",
+		"state",
+		"id",
+		"label",
+		"manager"
+	],
+	"name" : "SDBlock",
+	"type" : "normal"
+}

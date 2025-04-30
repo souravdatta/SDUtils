@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Object",
+	"category" : "SDUtils",
+	"classinstvars" : [
+		"blocks",
+		"lines"
+	],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [ ],
+	"name" : "SDBlockManager",
+	"type" : "normal"
+}
