@@ -1,0 +1,14 @@
+{
+	"commentStamp" : "",
+	"super" : "Morph",
+	"category" : "SDUtils",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [ ],
+	"instvars" : [
+		"seconds",
+		"task"
+	],
+	"name" : "SDRepeater",
+	"type" : "normal"
+}
